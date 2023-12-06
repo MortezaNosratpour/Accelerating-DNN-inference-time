@@ -1,4 +1,3 @@
-![image](https://github.com/MortezaNosratpour/Accelerating-DNN-inference-time/assets/45389014/92be7dc3-874c-4a7d-be9e-bc12335b05a8)![image](https://github.com/MortezaNosratpour/Accelerating-DNN-inference-time/assets/45389014/25779ac9-83c9-4f42-812d-405ba900814f)![image](https://github.com/MortezaNosratpour/Accelerating-DNN-inference-time/assets/45389014/07cffb81-eef9-4aae-819f-6f6752c68265)# Accelerating-DNN-inference-time
 Accelerating inference time by adversarial training and caching intermediate representations. (Work is in progress)
 
 
